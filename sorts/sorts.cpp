@@ -10,7 +10,7 @@ int main(int argc, char** argv)
 {
 	srand(static_cast<unsigned int>(time(0)));
 
-	const int ARR_LEN = 500000;
+	const int ARR_LEN = 1000000;
 	int* a = new int[ARR_LEN]();
 	stuff_array(a, ARR_LEN);
 
