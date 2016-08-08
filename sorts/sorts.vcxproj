@@ -78,7 +78,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="auxiliary.cpp" />
+    <ClCompile Include="insertion_sort.cpp" />
+    <ClCompile Include="merge_sort.cpp" />
     <ClCompile Include="sorts.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="auxiliary.h" />
+    <ClInclude Include="insertion_sort.h" />
+    <ClInclude Include="merge_sort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

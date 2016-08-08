@@ -18,5 +18,25 @@
     <ClCompile Include="sorts.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="insertion_sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="auxiliary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="insertion_sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="auxiliary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="merge_sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
