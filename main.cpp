@@ -6,7 +6,8 @@
 //  Copyright © 2016年 Comaxy. All rights reserved.
 //
 
-#include <stdio.h>
+#include "BinarySearchTree.h"
+
 
 int main(void)
 {
